@@ -17,6 +17,7 @@ import android.content.Context
 import android.os.Handler
 import android.os.Looper
 
+
 class MainActivity : AppCompatActivity() {
     private var nfcAdapter: NfcAdapter? = null
 
